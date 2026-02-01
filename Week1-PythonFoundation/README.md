@@ -61,3 +61,26 @@
 - Use and create reusable packages
 
 ---
+## 📝 Task 5 — Streamlit, Interactive Python Apps & Deployment
+
+**Topics:**  
+- Introduction to **Streamlit**  
+- Building interactive UIs: Tabs, Inputs, Buttons, SelectBoxes  
+- Connecting Python logic with UI elements  
+- Project deployment and reproducibility using **virtual environments**  
+
+**Mini Project:**  
+- **Streamlit Calculator**  
+  - **Arithmetic:** Add, Subtract, Multiply, Divide  
+  - **Trigonometry:** `sin`, `cos`, `tan` (input in degrees)  
+  - **Complex Numbers:** Add, Subtract, Multiply, Divide  
+  - **Conversions:** Rectangular ↔ Polar forms  
+  - Modular code using functions for reusability  
+  - Interactive UI in Streamlit  
+
+**Learning Outcome:**  
+- Build **real-world interactive Python applications**  
+- Connect Python logic with a **web-based UI**  
+- Handle **user inputs and edge cases** gracefully  
+- Deploy projects with **reproducibility** using virtual environments  
+- Understand **multi-tab layouts** in Streamlit
